@@ -1,7 +1,7 @@
-#Yoga S740 (14) Wyróżniająca inteligencja
+# Yoga S740 (14) Wyróżniająca inteligencja
 
-###Product card
-######Recruitment task - product card coding
+### Product card
+######  Recruitment task - product card coding
 
 ### Technologies
 * HTML
