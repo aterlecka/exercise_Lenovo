@@ -1,0 +1,482 @@
+@font-face {
+    font-family: 'gothambook';
+    src: url('font/gothambook-webfont.woff2') format('woff2'),
+    url('font/gothambook-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.rectangle {
+    background-color: #408DDC;
+    width: 100%;
+    height: auto;
+
+}
+.rectangle-second{
+    background-color: #408DDC;
+    height: 145px
+}
+
+.logo {
+    width: 4.21%;
+}
+
+.all {
+    margin-left: 15.80%;
+    margin-right: 15.80%;
+}
+
+.block_for_describeAndImg {
+    display: flex;
+    margin-top: -0.4%;
+}
+
+.bitmap {
+    width: 100%;
+    height: auto;
+    margin-top: -14%;
+    margin-left: -19%;
+
+}
+
+.bitmap3 {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    margin: 0% 0% auto;
+}
+
+.bitmap2 {
+    width: 100%;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.bitmap4 {
+    width: 100%;
+    height: auto;
+    max-width: 1320px;
+}
+
+.block {
+    flex: 0 0 40.5%;
+    margin-left: 15.8%;
+    margin-top: 0%;
+
+}
+
+.yoga-s-740-14-wyroz {
+    width: 83%;
+    color: #FFFFFF;
+    font-family: 'gothambook', Arial;
+    font-weight: lighter;
+    font-size: 50px;
+    line-height: 56px;
+    text-align: left;
+    margin-bottom: 3.80%;
+}
+
+.yoga-s-740-14-wyroz p:nth-child(2) {
+    font-size: 80%;
+    margin-top: 0.5%;
+    margin-bottom: 5.3%;
+
+}
+
+.z-komputerem-yoga-s-7 {
+    color: #FFFFFF;
+    font-family: 'gothambook', Sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    width: 76%
+}
+
+.bitmap1 {
+    width: 86%;
+    justify-content: center;
+    margin: 7.70% 7.8% auto
+
+}
+
+.bitmap2 {
+    width: 100%;
+    justify-content: center;
+    margin: 0 auto;
+
+
+}
+
+.bitmap8 {
+    width: 100%;
+    height: auto;
+    max-width: 1321px;
+}
+
+.pomyslowe-technologi {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    font-size: 50px;
+    line-height: 60px;
+    margin-top: 4%;
+    margin-bottom: 33px;
+}
+
+.lenovo-poszerza-zakr {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    margin-right: 2%;
+
+}
+
+.sztuczna-inteligencj {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: left;
+    margin-top: 3.10%;
+    margin-bottom: 30px;
+
+}
+
+.potrzebujesz-czegos {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    font-size: 50px;
+    line-height: 60px;
+    margin-top: 6.60%;
+    margin-bottom: 2.60%;
+
+}
+
+.yoga-s-740-ma-mikrofo-1 {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    margin-top: 0.95%;
+
+
+}
+
+.mobilne-kino {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: left;
+    margin-top: 3.10%;
+    margin-bottom: 2.50%
+
+}
+
+.zaawansowany-proceso {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    position: relative;
+    justify-content: center;
+    margin-bottom: 7.25%;
+}
+
+.nie-ma-gniazdka-nie {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    font-size: 50px;
+    line-height: 60px;
+    margin-top: 5.75%;
+    margin-bottom: 2.55%;
+
+}
+
+.niezaleznie-od-tego {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    margin-bottom: 2.65%;
+
+}
+
+.nowy-poziom-wydajnos {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: left;
+    margin-top: 2%;
+    margin-bottom: 2.55%
+}
+
+.opcjonalna-dedykowan {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    position: relative;
+    justify-content: center;
+    margin-bottom: 7.40%;
+}
+
+.intuicyjnie-i-intera {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    font-size: 50px;
+    line-height: 60px;
+    margin-top: 6.60%;
+    margin-bottom: 2.60%;
+}
+
+.zna-cie-lepiej, .szybki-i-elastyczny {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: left;
+    margin-top: 1.95%;
+    margin-bottom: 2.55%
+}
+.specyfikacja-first {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    font-size: 50px;
+    line-height: 60px;
+    margin-top: 6.35%;
+    margin-bottom: 1.05%;
+}
+
+.elegancki-styl-i-mob {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    font-size: 50px;
+    line-height: 60px;
+    margin-top: 2.70%;
+    margin-bottom: 2.55%;
+}
+
+.szybki-i-elastyczny {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: left;
+    margin-top: 2.95%;
+    margin-bottom: 2.55%;
+
+}
+
+.mozesz-na-przyklad-l {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    position: relative;
+    justify-content: center;
+    margin-bottom: 5.80%;
+}
+
+.yoga-s-740-ma-obudowe {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+}
+
+.yoga-s-740-ma-mikrofo, .kamera-na-podczerwie {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+}
+
+.yoga-s-740-ma-port-th {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    position: relative;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.specification_box {
+    display: flex;
+}
+hr{
+
+    opacity: 0.3;
+}
+
+/*.specification_box, .specification_box_second::after, .specification_box_first::after{*/
+
+/*    width: 100%;*/
+/*    border-bottom: 1px solid #979797;*/
+/*    opacity: 0.3;*/
+/*    content: "";*/
+
+/*}*/
+
+.specka-last {
+    display: flex;
+}
+
+.dane-techniczne {
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    margin-top: 1.80%;
+    text-align: end;
+}
+
+.specyfikacja {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: left;
+}
+
+.specification .specyfikacja {
+    margin-top: 4.30%;
+    margin-bottom: 5.20%;
+}
+
+.specification_box_first {
+    color: #000000;
+    flex: 0 0 26%;
+    margin-top: 1.25%;
+    margin-bottom: 1%;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Lato', sans-serif;
+}
+
+.specification_box_second {
+    display: table;
+    flex-direction: column;
+    color: #000000;
+    margin-top: 1.25%;
+    margin-bottom: 1%;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Lato', sans-serif;
+}
+
+
+.boxForP {
+    display: table;
+    flex-direction: column;
+    color: #000000;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+}
+
+.boxForP p:first-child {
+    margin-top: 0.7%;
+    margin-bottom: 0.7%;
+}
+
+
+.boxForP p:last-child {
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 1%;
+    margin-top: 1.3%;
+}
+
+.boxForP-second {
+    display: table;
+    flex-direction: column;
+    color: #000000;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+}
+
+.boxForP-second p:first-child {
+    margin-top: 1.3%;
+    margin-bottom: 1.5%;
+}
+
+
+.boxForP-second p:last-child {
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 1%;
+    margin-top: 2.7%;
+}
+
+.zasilanie-2-usb {
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    margin-bottom: 9.6%;
+    margin-top: 0.5%;
+}
+
+@media (max-width: 960px) {
+    .specification_box_first {
+        color: #000000;
+        flex: 0 0 58%;
+        margin-top: 1.25%;
+        margin-bottom: 1%;
+        font-size: 20px;
+        line-height: 30px;
+        font-family: 'Lato', sans-serif;
+    }
+
+}
+@media (max-width: 960px) {
+
+.block_for_describeAndImg{
+    display: block;
+}
+    .bitmap{
+        margin-left: 16%;;
+        margin-top: 4%;
+        width: 70%;
+    }
+}
+@media (min-width: 961px) and (max-width: 1450px){
+
+    .block_for_describeAndImg{
+        display: block;
+    }
+.bitmap{
+    margin-left: 16%;
+    margin-top: 4%;
+    width: 70%;
+}
+}
+
